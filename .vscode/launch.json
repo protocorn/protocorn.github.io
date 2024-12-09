@@ -1,0 +1,14 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "chrome",
+            "request": "launch",
+            "name": "Open Energy_Consumption_tutorial.html",
+            "file": "c:\\Users\\proto\\privacy_policies_SGA_extension\\Energy_Consumption_tutorial.html"
+        }
+    ]
+}
